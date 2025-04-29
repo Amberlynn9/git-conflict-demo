@@ -1,2 +1,1 @@
-Shared project file
-Change from Dev.A
+Hello from Developer A
