@@ -1,3 +1,7 @@
 Line 1
 Line 2
+<<<<<<< HEAD
 Line 3 (edited again from A)
+=======
+Line 3 (from B)
+>>>>>>> e6de2ee1adfbf01fbf90d2ca422f39d213fa54f9
